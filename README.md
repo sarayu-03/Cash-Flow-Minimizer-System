@@ -1,6 +1,6 @@
 # Welcome to the **Cash Flow Minimizer System** README!!
 
-## **Deployment Link**: [Live website](http://13.127.192.36/)
+
 
 This system is designed to minimize the **number of transactions** among multiple banks spread across different corners of the world. These banks often use **different modes of payment**, and a **world bank** with access to all payment modes acts as an intermediary for banks that have no common mode of payment. The system optimizes the transaction process and ensures smooth, efficient fund transfers.
 
